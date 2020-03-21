@@ -1,5 +1,5 @@
-# Some useful computer vision resources that we will combine  
-# To detect personalities in videos
+# Some useful computer vision resources  
+## Long term objective is to build a tool to detect personalities in videos
 
 [References](#references)  
 [Setup](#setup)  
