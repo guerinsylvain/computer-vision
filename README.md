@@ -10,8 +10,9 @@
 
 <a id="references"></a>
 ## References
-Here are some references that helped me to build this project:
-* [Hands-On Computer Vision with TensorFlow 2: Leverage deep learning to create powerful image processing apps with TensorFlow 2.0 and Keras](https://www.amazon.fr/Hands-Computer-Vision-TensorFlow-processing/dp/1788830644)  
+Here are some references that helped me to build this experiment:
+* [Hands-On Computer Vision with TensorFlow 2: Leverage deep learning to create powerful image processing apps with TensorFlow 2.0 and Keras](https://www.amazon.fr/Hands-Computer-Vision-TensorFlow-processing/dp/1788830644) by Benjamin Planche and Eliot Andres   
+* [YoloV3 Implemented in TensorFlow 2.0](https://github.com/zzh8829/yolov3-tf2) by Zihao Zhang  
 
 <a id="setup"></a>
 ## Setup
