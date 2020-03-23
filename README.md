@@ -1,6 +1,7 @@
 # Some useful computer vision resources  
 ## Long term objective is to build a tool to detect personalities in videos  
 ![](https://github.com/guerinsylvain/computer-vision/blob/master/readme01.JPG)  
+![](https://github.com/guerinsylvain/computer-vision/blob/master/readme02.JPG)  
 
 [References](#references)  
 [Setup](#setup)  
