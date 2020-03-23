@@ -5,6 +5,7 @@
 [References](#references)  
 [Setup](#setup)  
 &nbsp;&nbsp;&nbsp;[Get the sources](#get-sources)  
+&nbsp;&nbsp;&nbsp;[Install Visual C++ Tools for Cmake](#setup-vstools)  
 &nbsp;&nbsp;&nbsp;[Install the CUDA Toolkit 10.1](#setup-cudatoolkit)  
 &nbsp;&nbsp;&nbsp;[Install the NVIDIA CUDA Deep Neural Network library (cuDNN v7.6.5 (November 5th, 2019), for CUDA 10.1)](#setup-cudnn)  
 &nbsp;&nbsp;&nbsp;[Install and configure Python](#setup-python)  
@@ -14,6 +15,7 @@
 Here are some references that helped me to build this experiment:
 * [Hands-On Computer Vision with TensorFlow 2: Leverage deep learning to create powerful image processing apps with TensorFlow 2.0 and Keras](https://www.amazon.fr/Hands-Computer-Vision-TensorFlow-processing/dp/1788830644) by Benjamin Planche and Eliot Andres   
 * [YoloV3 Implemented in TensorFlow 2.0](https://github.com/zzh8829/yolov3-tf2) by Zihao Zhang  
+* [Face Recognition](https://github.com/ageitgey/face_recognition) 
 
 <a id="setup"></a>
 ## Setup
@@ -22,6 +24,10 @@ Here are some references that helped me to build this experiment:
 You may
 * clone this github repository 
 * or download a zip containing the latest version or a given release of the code
+<a id="setup-vstools"></a>
+### Install Visual C++ Tools for Cmake
+1. Install Visual Studio build tools from [here](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15#).  
+2. In Visual Studio 2017 go to the Individual Components tab, Visual C++ Tools for Cmake, and check the checkbox under the "Compilers, build tools and runtimes" section.
 <a id="setup-cudatoolkit"></a>
 ### Install the CUDA Toolkit 10.1
 1. Please install from the following [link](https://developer.nvidia.com/cuda-10.1-download-archive-update2)  
